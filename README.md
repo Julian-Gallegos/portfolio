@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Codebase for my portfolio website
 
-Make it your own! 
+Link to the deployed site: https://julian-gallegos.netlify.app/

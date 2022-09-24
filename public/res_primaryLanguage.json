@@ -17,7 +17,7 @@
         "images": [
           "images/portfolio/cake-for-all/1.jpg"
         ],
-        "url": "",
+        "url": "https://julian-gallegos.github.io/cake-for-all/index.html",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -32,7 +32,7 @@
         "images": [
           "images/portfolio/campus-paths/1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Julian-Gallegos/Campus-Paths",
         "technologies": [
           {
             "class": "devicon-react-original",

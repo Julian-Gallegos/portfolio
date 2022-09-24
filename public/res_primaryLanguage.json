@@ -59,37 +59,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Sari I. Gallegos ND",
+        "title": "Receptionist",
+        "years": "4.2017 - present",
         "mainTech": [
-          "Angular 8/9/10"
+
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Communication",
+          "Time Management",
+          "Attention to Detail",
+          "Social Skills",
+          "Customer Service"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Cloud City Coffee",
+        "title": "Cook",
+        "years": "08.2015 - 04.2017",
         "mainTech": [
-          "Angular 7/8"
+
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Teamwork",
+          "Communication",
+          "Time Management"
         ]
       }
     ]
